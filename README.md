@@ -25,7 +25,7 @@ project/
 
 ## ⚙️ Установка
 в терминале
-git clone https://github.com/ТВОЙ_ЛОГИН/object-recognition-ai.git
+git clone https://github.com/NURJAKS/object-recognition-ai.git
 cd object-recognition-ai
 python3 -m venv venv
 source venv/bin/activate
